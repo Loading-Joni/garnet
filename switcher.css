@@ -1,0 +1,127 @@
+:root {
+  --sw-h: 48px;
+  --sw-bg: #141414;
+  --sw-fg: #ffffff;
+  --sw-accent: #c7004f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background: var(--sw-bg);
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  overflow: hidden;
+}
+
+.sw-bar {
+  flex: 0 0 var(--sw-h);
+  height: var(--sw-h);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 14px;
+  background: var(--sw-bg);
+  color: var(--sw-fg);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+  position: relative;
+  z-index: 2;
+}
+
+.sw-brand {
+  font-size: 13px;
+  letter-spacing: 0.01em;
+  color: rgba(255, 255, 255, 0.55);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sw-tabs {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
+
+.sw-tabs button {
+  appearance: none;
+  -webkit-appearance: none;
+  font: inherit;
+  font-size: 13px;
+  line-height: 1.2;
+  padding: 7px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.sw-tabs button:hover {
+  border-color: rgba(255, 255, 255, 0.55);
+  color: #fff;
+}
+
+.sw-tabs button:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+.sw-tabs button[aria-pressed='true'] {
+  background: var(--sw-accent);
+  border-color: var(--sw-accent);
+  color: #fff;
+}
+
+#sw-frame {
+  flex: 1 1 auto;
+  width: 100%;
+  border: 0;
+  display: block;
+  background: #fff;
+  color-scheme: normal;
+}
+
+@media (max-width: 640px) {
+  :root {
+    --sw-h: 46px;
+  }
+
+  body {
+    height: 100dvh;
+  }
+
+  .sw-bar {
+    padding: 0 10px;
+    gap: 8px;
+  }
+
+  .sw-brand {
+    display: none;
+  }
+
+  .sw-tabs {
+    margin-left: 0;
+    width: 100%;
+    gap: 6px;
+  }
+
+  .sw-tabs button {
+    flex: 1 1 0;
+    min-width: 0;
+    font-size: 16px;
+    padding: 6px 4px;
+    text-align: center;
+  }
+}

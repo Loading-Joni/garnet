@@ -1,0 +1,32 @@
+OK  logo-garnet.svg                  21 KB  https://garnetstom.ru/wp-content/uploads/2024/04/logo-garnet-mart-2024-1.svg
+OK  vrach-1.jpg                     447 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9122-copy-scaled.jpg
+OK  vrach-2.jpg                     321 KB  https://garnetstom.ru/wp-content/uploads/2024/05/poykeotketoyke-scaled.jpg
+OK  vrach-3.jpg                      59 KB  https://garnetstom.ru/wp-content/uploads/2024/05/photo_2024-05-18_11-15-46.jpg
+OK  vrach-4.jpg                     361 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9073-scaled.jpg
+OK  vrach-5.jpg                      90 KB  https://garnetstom.ru/wp-content/uploads/2025/01/photo_2025-01-29_12-58-11.jpg
+OK  vrach-6.jpg                      50 KB  https://garnetstom.ru/wp-content/uploads/2025/06/photo_2025-06-11_15-03-56.jpg
+OK  vrach-7.jpg                      46 KB  https://garnetstom.ru/wp-content/uploads/2025/06/photo_2025-06-12_11-10-20.jpg
+OK  hirurg-v-kabinecie.jpeg         480 KB  https://garnetstom.ru/wp-content/uploads/2025/06/doctor2.jpeg
+OK  interer-1.jpg                   277 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9057-scaled.jpg
+OK  interer-2.jpg                   352 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9091-scaled.jpg
+OK  interer-3.jpg                   333 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9102-scaled.jpg
+OK  interer-4.jpg                   238 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9153-scaled.jpg
+OK  interer-5.jpg                   508 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9208-scaled.jpg
+OK  interer-6.jpg                   550 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9281-scaled.jpg
+OK  interer-7.jpg                   340 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9348-scaled.jpg
+OK  interer-8.jpg                   340 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9350-scaled.jpg
+OK  interer-9.jpg                   443 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9358-scaled.jpg
+OK  interer-10.jpg                  303 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9386-scaled.jpg
+OK  interer-11.jpg                 1152 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9394-hdr-copy-scaled.jpg
+OK  interer-12.jpg                  273 KB  https://garnetstom.ru/wp-content/uploads/2024/05/img_9339-scaled.jpg
+OK  rabota-1.jpeg                   447 KB  https://garnetstom.ru/wp-content/uploads/2025/07/06b9704b-5844-4621-8093-79cd6c7c73a9.jpeg
+OK  rabota-2.jpeg                   611 KB  https://garnetstom.ru/wp-content/uploads/2025/07/13f060cb-ca95-4ff5-a205-952b213a8bda.jpeg
+OK  rabota-3.jpeg                   438 KB  https://garnetstom.ru/wp-content/uploads/2025/07/46b81e3c-49de-4113-bcf6-48b846c53da0.jpeg
+OK  rabota-4.jpeg                   370 KB  https://garnetstom.ru/wp-content/uploads/2025/07/7b5f3754-1a0b-412c-a1ec-735300ebc031.jpeg
+OK  rabota-5.jpeg                   664 KB  https://garnetstom.ru/wp-content/uploads/2025/07/aa9a88fb-34e9-4f5c-97ab-6de6e2a39399.jpeg
+OK  rabota-6.jpeg                   563 KB  https://garnetstom.ru/wp-content/uploads/2025/07/ba0669da-98cb-4234-a90b-a82089b25961.jpeg
+OK  rabota-7.jpeg                   309 KB  https://garnetstom.ru/wp-content/uploads/2025/07/f2758a02-fca6-48fe-aaed-147388ffb70b.jpeg
+OK  rabota-8.jpeg                   377 KB  https://garnetstom.ru/wp-content/uploads/2025/07/910a14c3-fda4-45ce-931b-7f75a3f8553a-scaled.jpeg
+OK  peek-protez.jpg                  48 KB  https://garnetstom.ru/wp-content/uploads/2026/10/peek2.jpg
+
+ok=30 bad=0

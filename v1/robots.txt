@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /v1/spasibo.html
+Allow: /
+
+Host: test-direct-ad.online
+Sitemap: https://test-direct-ad.online/v1/sitemap.xml

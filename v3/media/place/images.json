@@ -1,0 +1,13 @@
+[
+  {
+    "src": "media/crops/place.jpg",
+    "name": "place",
+    "files": [
+      "public\\media\\place\\place-768.webp",
+      "public\\media\\place\\place-768.avif",
+      "public\\media\\place\\place-1200.webp",
+      "public\\media\\place\\place-1200.avif"
+    ],
+    "width": 1600
+  }
+]

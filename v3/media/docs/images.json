@@ -1,0 +1,68 @@
+[
+  {
+    "src": "media/crops/doc-mkoyan.jpg",
+    "name": "doc-mkoyan",
+    "files": [
+      "public\\media\\docs\\doc-mkoyan-320.webp",
+      "public\\media\\docs\\doc-mkoyan-320.avif",
+      "public\\media\\docs\\doc-mkoyan-480.webp",
+      "public\\media\\docs\\doc-mkoyan-480.avif"
+    ],
+    "width": 1600
+  },
+  {
+    "src": "media/crops/doc-hotko.jpg",
+    "name": "doc-hotko",
+    "files": [
+      "public\\media\\docs\\doc-hotko-320.webp",
+      "public\\media\\docs\\doc-hotko-320.avif",
+      "public\\media\\docs\\doc-hotko-480.webp",
+      "public\\media\\docs\\doc-hotko-480.avif"
+    ],
+    "width": 1600
+  },
+  {
+    "src": "media/crops/doc-buhman.jpg",
+    "name": "doc-buhman",
+    "files": [
+      "public\\media\\docs\\doc-buhman-320.webp",
+      "public\\media\\docs\\doc-buhman-320.avif",
+      "public\\media\\docs\\doc-buhman-480.webp",
+      "public\\media\\docs\\doc-buhman-480.avif"
+    ],
+    "width": 500
+  },
+  {
+    "src": "media/crops/doc-pilosyan.jpg",
+    "name": "doc-pilosyan",
+    "files": [
+      "public\\media\\docs\\doc-pilosyan-320.webp",
+      "public\\media\\docs\\doc-pilosyan-320.avif",
+      "public\\media\\docs\\doc-pilosyan-480.webp",
+      "public\\media\\docs\\doc-pilosyan-480.avif"
+    ],
+    "width": 500
+  },
+  {
+    "src": "media/crops/doc-deligavuryan.jpg",
+    "name": "doc-deligavuryan",
+    "files": [
+      "public\\media\\docs\\doc-deligavuryan-320.webp",
+      "public\\media\\docs\\doc-deligavuryan-320.avif",
+      "public\\media\\docs\\doc-deligavuryan-480.webp",
+      "public\\media\\docs\\doc-deligavuryan-480.avif"
+    ],
+    "width": 500
+  },
+  {
+    "src": "media/crops/doc-meyusov.jpg",
+    "name": "doc-meyusov",
+    "files": [
+      "public\\media\\docs\\doc-meyusov-320.webp",
+      "public\\media\\docs\\doc-meyusov-320.avif",
+      "public\\media\\docs\\doc-meyusov-480.webp",
+      "public\\media\\docs\\doc-meyusov-480.avif"
+    ],
+    "width": 500
+  }
+]

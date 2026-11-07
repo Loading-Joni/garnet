@@ -1,0 +1,24 @@
+[
+  {
+    "src": "media/crops/hero-desk.jpg",
+    "name": "hero-desk",
+    "files": [
+      "public\\media\\hero\\hero-desk-768.webp",
+      "public\\media\\hero\\hero-desk-768.avif",
+      "public\\media\\hero\\hero-desk-1200.webp",
+      "public\\media\\hero\\hero-desk-1200.avif"
+    ],
+    "width": 1280
+  },
+  {
+    "src": "media/crops/hero-mob.jpg",
+    "name": "hero-mob",
+    "files": [
+      "public\\media\\hero\\hero-mob-768.webp",
+      "public\\media\\hero\\hero-mob-768.avif",
+      "public\\media\\hero\\hero-mob-1200.webp",
+      "public\\media\\hero\\hero-mob-1200.avif"
+    ],
+    "width": 1600
+  }
+]

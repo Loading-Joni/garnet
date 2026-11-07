@@ -1,0 +1,35 @@
+[
+  {
+    "src": "media/crops/step1-mob.jpg",
+    "name": "step1-mob",
+    "files": [
+      "public\\media\\steps\\step1-mob-480.webp",
+      "public\\media\\steps\\step1-mob-480.avif",
+      "public\\media\\steps\\step1-mob-768.webp",
+      "public\\media\\steps\\step1-mob-768.avif"
+    ],
+    "width": 1200
+  },
+  {
+    "src": "media/crops/step2-mob.jpg",
+    "name": "step2-mob",
+    "files": [
+      "public\\media\\steps\\step2-mob-480.webp",
+      "public\\media\\steps\\step2-mob-480.avif",
+      "public\\media\\steps\\step2-mob-768.webp",
+      "public\\media\\steps\\step2-mob-768.avif"
+    ],
+    "width": 1200
+  },
+  {
+    "src": "media/crops/step3-mob.jpg",
+    "name": "step3-mob",
+    "files": [
+      "public\\media\\steps\\step3-mob-480.webp",
+      "public\\media\\steps\\step3-mob-480.avif",
+      "public\\media\\steps\\step3-mob-768.webp",
+      "public\\media\\steps\\step3-mob-768.avif"
+    ],
+    "width": 1200
+  }
+]

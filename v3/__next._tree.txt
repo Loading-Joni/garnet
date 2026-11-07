@@ -1,0 +1,5 @@
+:HL["/v3/_next/static/chunks/2yf8pcw9hxucp.css","style"]
+:HL["/v3/_next/static/chunks/1aomy7ojbr4d6.css","style"]
+:HL["/v3/fonts/inter-tight/inter-tight.css","style"]
+:HL["/v3/fonts/golos-text/golos-text.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"DdOS5i4UCNHpLyt7TyxMK"}
