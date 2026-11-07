@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/2ift55wwbt_ac.css","style"]
+:HL["/_next/static/chunks/1t78ks1-vmnjq.css","style"]
 :HL["/fonts/onest/onest.css","style"]
 :HL["/img/hero-1280.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/img/hero-640.avif 640w, /img/hero-960.avif 960w, /img/hero-1280.avif 1280w, /img/hero-1920.avif 1920w","imageSizes":"(max-width: 1023px) 100vw, 48vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"BRg3Q9jQ8XdMCPMePVjhV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"sC4iGgS2Lj1h8HOnId6_5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
