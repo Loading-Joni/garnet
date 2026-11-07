@@ -1,0 +1,15 @@
+[
+  {
+    "src": "media/crops/doctors/doctor-hotko.jpg",
+    "name": "doctor-hotko",
+    "files": [
+      "public\\img\\doctors\\doctor-hotko-360.webp",
+      "public\\img\\doctors\\doctor-hotko-360.avif",
+      "public\\img\\doctors\\doctor-hotko-480.webp",
+      "public\\img\\doctors\\doctor-hotko-480.avif",
+      "public\\img\\doctors\\doctor-hotko-720.webp",
+      "public\\img\\doctors\\doctor-hotko-720.avif"
+    ],
+    "width": 900
+  }
+]

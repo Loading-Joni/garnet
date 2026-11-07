@@ -1,0 +1,15 @@
+[
+  {
+    "src": "media/crops/reception.jpg",
+    "name": "reception",
+    "files": [
+      "public\\img\\reception-640.webp",
+      "public\\img\\reception-640.avif",
+      "public\\img\\reception-960.webp",
+      "public\\img\\reception-960.avif",
+      "public\\img\\reception-1280.webp",
+      "public\\img\\reception-1280.avif"
+    ],
+    "width": 2560
+  }
+]
